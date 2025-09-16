@@ -1,6 +1,7 @@
 # gitDemo
 
 ## Introduction
+```
 Hello world! I'm the README for this repo. You can find a lot of helpful information here!
                        .-.
         .-""`""-.    |(@ @)
@@ -8,3 +9,4 @@ Hello world! I'm the README for this repo. You can find a lot of helpful informa
     '.-=-=-=-=-=-=-.' \/ \
       `-=.=-.-=.=-'    \ /\
          ^  ^  ^       _H_ \
+```
